@@ -139,7 +139,7 @@
 
 // Define this to set a unique identifier for this printer, (Used by some programs to differentiate between machines)
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
-//#define MACHINE_UUID "00000000-0000-0000-0000-000000000000"
+#define MACHINE_UUID "2b94d4b8-ce3e-4a08-9fe2-f6ea000b7663"
 
 // This defines the number of extruders
 // :[1, 2, 3, 4]
